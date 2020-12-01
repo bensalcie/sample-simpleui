@@ -31,6 +31,8 @@ You can attach LEDs or other digital output peripheral to your GPIO pins and tog
 ## Build and install
 
 On Android Studio, click on the "Run" button.
+(Make sure to have setup the Android things ready
+-Powered correctly and Blinking)
 
 If you prefer to run on the command line, type
 
